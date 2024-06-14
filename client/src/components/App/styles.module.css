@@ -1,0 +1,17 @@
+.container{
+    height: 100vh;
+}
+
+.content{
+    background-color: white;
+    padding: 24px;
+    border: solid 4px #ff6dc2;
+    margin-top:10px;
+
+}
+
+
+
+.col {
+    margin: 10px 0 30px 0;
+}

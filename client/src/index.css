@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(48, 48, 48);
+}
+
+.ant-menu-item-selected {
+  background-color: #e60086 !important;
+}
+
+
+.ant-menu-item-selected a{
+  color:white!important;
+}
+
+.ant-menu-item-selected .ant-menu-title-content a:hover{
+  color:white!important;
+}
+
+
+.ant-menu-title-content a:hover{
+  color: #e60086!important;
+}
+
+.ant-form-item {
+  margin-bottom: 14px!important
+}
